@@ -1,12 +1,17 @@
-<div aling="right">
-  <img height="350em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tjes8bziz5ju7eorgpxdh6laq&unique={true|1|on|yes"/>
-</div>
-<img height="165em"  src="https://github-readme-stats.vercel.app/api?username=Wecreds&theme=transparent&show_icons=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecreds&layout=compact&langs_count=7&theme=transparent"/>
-<div>
-<img width="50%" aling="center" style="margin-left: auto;
-  margin-right: auto;" src="https://spotify-github-profile.vercel.app/api/view?uid=tjes8bziz5ju7eorgpxdh6laq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"/>
-</div>
+<img height="350em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=tjes8bziz5ju7eorgpxdh6laq&unique={true|1|on|yes"/>
+<!--- Spotify recently playerd -->
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Wecreds&theme=transparent&show_icons=true"/>
+<!--- Github Stats -->
+
+<img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecreds&layout=compact&langs_count=7&theme=transparent"/>
+<!--- Most Used Languages -->
+
+<p align="center">
+  <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=tjes8bziz5ju7eorgpxdh6laq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"/>
+</p>
+
+
 
  &#8196;
 ##
