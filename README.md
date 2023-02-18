@@ -3,7 +3,7 @@
 </div>
 <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=Wecreds&theme=transparent&show_icons=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wecreds&layout=compact&langs_count=7&theme=transparent"/>
-<img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=tjes8bziz5ju7eorgpxdh6laq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile")
+<img width="50%" aling="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tjes8bziz5ju7eorgpxdh6laq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile")
 
  &#8196;
 ##
